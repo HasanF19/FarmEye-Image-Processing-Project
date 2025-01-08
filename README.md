@@ -1,4 +1,4 @@
-#Sentinel Hub API Kullanımı için Python Scripti
+#Sentinel Hub API Kullanımı
 
 Bu proje, Sentinel Hub API'sini kullanarak uydu görüntülerini indirmenize ve bulut örtüsü analizi yapmanıza olanak tanır. Python diliyle hazırlanmış bu script, belirli koordinatlar ve tarih aralıkları için Sentinel-2 uydu verilerini işlemektedir.
 
